@@ -4,7 +4,7 @@ A comprehensive SMS spam classification system with machine learning models, int
 
 ## 🚀 Live Demo
 
-**🎯 Interactive Dashboard**: [https://sms-spam-classifier.streamlit.app/](https://your-username-sms-spam-classifier.streamlit.app/)
+**🎯 Interactive Dashboard**: [https://sms-spam-classifier.streamlit.app/](https://2025spamemail-7113062412.streamlit.app/)
 
 ## 📊 Features
 
@@ -37,7 +37,7 @@ A comprehensive SMS spam classification system with machine learning models, int
 ## 🚀 Quick Start
 
 ### Online Dashboard
-Visit the live dashboard: **[SMS Spam Classifier](https://your-username-sms-spam-classifier.streamlit.app/)**
+Visit the live dashboard: **[SMS Spam Classifier](https://2025spamemail-7113062412.streamlit.app/)**
 
 ### Local Installation
 
@@ -184,8 +184,8 @@ streamlit run streamlit_app.py
 ## 🚀 Deployment
 
 This project is deployed on:
-- **Streamlit Cloud**: [https://your-username-sms-spam-classifier.streamlit.app/](https://your-username-sms-spam-classifier.streamlit.app/)
-- **GitHub**: [https://github.com/your-username/sms-spam-classifier](https://github.com/your-username/sms-spam-classifier)
+- **Streamlit Cloud**: [https://your-username-sms-spam-classifier.streamlit.app/](https://2025spamemail-7113062412.streamlit.app/)
+- **GitHub**: [https://github.com/your-username/sms-spam-classifier](https://github.com/WYC1297/-HW3)
 
 ## 📄 License
 
@@ -201,8 +201,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Link**: [https://github.com/your-username/sms-spam-classifier](https://github.com/your-username/sms-spam-classifier)
-- **Live Demo**: [https://your-username-sms-spam-classifier.streamlit.app/](https://your-username-sms-spam-classifier.streamlit.app/)
+- **Project Link**: [https://github.com/your-username/sms-spam-classifier](https://github.com/WYC1297/-HW3)
+- **Live Demo**: [https://your-username-sms-spam-classifier.streamlit.app/](https://2025spamemail-7113062412.streamlit.app/)
 
 ## 🙏 Acknowledgments
 
